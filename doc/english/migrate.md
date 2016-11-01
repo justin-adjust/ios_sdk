@@ -1,4 +1,4 @@
-## Migrate your adjust SDK for iOS to v4.8.0 from v3.4.0
+## Migrate your adjust SDK for iOS to v4.10.2 from v3.4.0
 
 ### Initial setup
 
@@ -202,10 +202,13 @@ meaningful at all times! Especially if you are tracking revenue.
    consistent. The amount parameter is now of type `double`, so you can drop
    the `f` suffixes in number literals (`12.3f` becomes `12.3`).
 
-[README]: ../README.md
-[rename]: https://raw.github.com/adjust/sdks/master/Resources/ios/rename.png
-[drag]: https://raw.github.com/adjust/sdks/master/Resources/ios/drag3.png
-[delegate]: https://raw.github.com/adjust/sdks/master/Resources/ios/delegate3.png
-[arc]: http://en.wikipedia.org/wiki/Automatic_Reference_Counting
+[README]:     ../README.md
+[dashboard]:  http://adjust.com
+
+[drag]:     https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/drag3.png
+[rename]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/rename.png
+[delegate]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/delegate3.png
+
+[arc]:        http://en.wikipedia.org/wiki/Automatic_Reference_Counting
 [transition]: http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
-[dashboard]: http://adjust.com
+
