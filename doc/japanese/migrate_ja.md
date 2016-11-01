@@ -1,4 +1,4 @@
-## iOS用adjust SDKのv3.4.0からv.4.8.0への移行
+## iOS用adjust SDKのv3.4.0からv.4.10.2への移行
 
 ### 初期設定
 
@@ -194,10 +194,12 @@ You can increase or decrease the amount of logs you see by calling
    一貫性を持たせるために名称を変更しました。金額パラメータの型は`double`です。
    数字から接尾の`f`を除いてください (`12.3f`は`12.3`になります)。
 
-[README]: ../README.md
-[rename]: https://raw.github.com/adjust/sdks/master/Resources/ios/rename.png
-[drag]: https://raw.github.com/adjust/sdks/master/Resources/ios/drag3.png
-[delegate]: https://raw.github.com/adjust/sdks/master/Resources/ios/delegate3.png
-[arc]: http://en.wikipedia.org/wiki/Automatic_Reference_Counting
+[README]:     ../README.md
+[dashboard]:  http://adjust.com
+
+[arc]:        http://en.wikipedia.org/wiki/Automatic_Reference_Counting
 [transition]: http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
-[dashboard]: http://adjust.com
+
+[drag]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/drag3.png
+[rename]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/rename.png
+[delegate]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/delegate3.png
