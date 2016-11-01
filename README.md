@@ -1097,20 +1097,20 @@ determining amount value**.
 
 [reattribution-with-deeplinks]:   https://docs.adjust.com/en/deeplinking/#manually-appending-attribution-data-to-a-deep-link
 
-[run]:         https://raw.github.com/adjust/sdks/master/Resources/ios/run5.png
-[add]:         https://raw.github.com/adjust/sdks/master/Resources/ios/add5.png
-[drag]:        https://raw.github.com/adjust/sdks/master/Resources/ios/drag5.png
-[delegate]:    https://raw.github.com/adjust/sdks/master/Resources/ios/delegate5.png
-[framework]:   https://raw.github.com/adjust/sdks/master/Resources/ios/framework5.png
+[run]:         https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/run5.png
+[add]:         https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/add5.png
+[drag]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/drag5.png
+[delegate]:    https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/delegate5.png
+[framework]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/framework5.png
 
-[adc-ios-team-id]:            https://raw.github.com/adjust/sdks/master/Resources/ios/adc-ios-team-id5.png
-[custom-url-scheme]:          https://raw.github.com/adjust/sdks/master/Resources/ios/custom-url-scheme.png
-[adc-associated-domains]:     https://raw.github.com/adjust/sdks/master/Resources/ios/adc-associated-domains5.png
-[xcode-associated-domains]:   https://raw.github.com/adjust/sdks/master/Resources/ios/xcode-associated-domains5.png
-[universal-links-dashboard]:  https://raw.github.com/adjust/sdks/master/Resources/ios/universal-links-dashboard5.png
+[adc-ios-team-id]:            https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/adc-ios-team-id5.png
+[custom-url-scheme]:          https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/custom-url-scheme.png
+[adc-associated-domains]:     https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/adc-associated-domains5.png
+[xcode-associated-domains]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/xcode-associated-domains5.png
+[universal-links-dashboard]:  https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/universal-links-dashboard5.png
 
-[associated-domains-applinks]:          https://raw.github.com/adjust/sdks/master/Resources/ios/associated-domains-applinks.png
-[universal-links-dashboard-values]: https://raw.github.com/adjust/sdks/master/Resources/ios/universal-links-dashboard-values5.png
+[associated-domains-applinks]:      https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/associated-domains-applinks.png
+[universal-links-dashboard-values]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/universal-links-dashboard-values5.png
 
 ## <a id="license">License
 
