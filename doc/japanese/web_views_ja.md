@@ -513,12 +513,12 @@ adjustConfig.setOpenDeferredDeeplink(false)
 [event-tracking-guide]:     https://docs.adjust.com/en/event-tracking/#reference-tracking-purchases-and-revenues
 [reattribution-deeplinks]:  https://docs.adjust.com/en/deeplinking/#manually-appending-attribution-data-to-a-deep-link
 
-[bridge_add]:             https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_add.png
-[bridge_drag]:            https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_drag.png
-[bridge_init_js]:         https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_init_js.png
-[bridge_init_objc]:       https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_init_objc.png
-[bridge_init_js_xcode]:   https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_init_js_xcode.png
-[bridge_install_tracked]: https://raw.githubusercontent.com/adjust/sdks/master/Resources/ios/bridge/bridge_install_tracked.png
+[bridge_add]:             https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_add.png
+[bridge_drag]:            https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_drag.png
+[bridge_init_js]:         https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_init_js.png
+[bridge_init_objc]:       https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_init_objc.png
+[bridge_init_js_xcode]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_init_js_xcode.png
+[bridge_install_tracked]: https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/bridge/bridge_install_tracked.png
 
 ## <a id="license">ライセンス
 
