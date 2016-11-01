@@ -407,21 +407,26 @@ adjust のパートナーとその統合については
 [スペシャルパートナーについて][special-partners]のページをご覧ください。
 
 [adjust.com]: https://adjust.com
-[cocoapods]: http://cocoapods.org
-[dashboard]: https://adjust.com
-[example]: http://github.com/adjust/ios_sdk/tree/master/example
-[releases]: https://github.com/adjust/ios_sdk/releases
-[arc]: http://en.wikipedia.org/wiki/Automatic_Reference_Counting
-[transition]: http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
-[drag]: /images/sdk/Resources/ios/drag4.png
-[add]: /images/sdk/Resources/ios/add3.png
-[framework]: /images/sdk/Resources/ios/framework4.png
-[delegate]: /images/sdk/Resources/ios/delegate4.png
-[run]: /images/sdk/Resources/ios/run4.png
-[AEPriceMatrix]: https://github.com/adjust/AEPriceMatrix
-[attribution-data]: https://github.com/adjust/sdks/blob/master/doc/attribution-data.md
-[callbacks-guide]: /ja//callbacks
-[event-tracking]: /ja/event-tracking
-[special-partners]: https://docs.adjust.com/en/special-partners
-[currency-conversion]: /ja/event-tracking/#tracking-purchases-in-different-currencies
-[ダッシュボード]: https://adjust.com/apps
+[dashboard]:  https://adjust.com
+
+[arc]:        http://en.wikipedia.org/wiki/Automatic_Reference_Counting
+[example]:    http://github.com/adjust/ios_sdk/tree/master/example
+[releases]:   https://github.com/adjust/ios_sdk/releases
+[cocoapods]:  http://cocoapods.org
+
+[transition]:       http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
+[ダッシュボード]:     https://adjust.com/apps
+[AEPriceMatrix]:    https://github.com/adjust/AEPriceMatrix
+[event-tracking]:   /ja/event-tracking
+[callbacks-guide]:  /ja//callbacks
+
+[attribution-data]:     https://github.com/adjust/sdks/blob/master/doc/attribution-data.md
+[special-partners]:     https://docs.adjust.com/en/special-partners
+[currency-conversion]:  /ja/event-tracking/#tracking-purchases-in-different-currencies
+
+[add]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/add3.png
+[run]:        https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/run4.png
+[drag]:       https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/drag4.png
+[delegate]:   https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/delegate4.png
+[framework]:  https://sdk-mirror.adjust.com/adjust/sdks/raw/master/Resources/ios/framework4.png
+
