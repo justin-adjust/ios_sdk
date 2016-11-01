@@ -1069,24 +1069,24 @@ determining amount value**.
 [adjust.com]:  http://adjust.com
 
 [arc]:         http://en.wikipedia.org/wiki/Automatic_Reference_Counting
-[examples]:    http://github.com/adjust/ios_sdk/tree/master/examples
+[examples]:    ./examples
 [carthage]:    https://github.com/Carthage/Carthage
 [releases]:    https://github.com/adjust/ios_sdk/releases
 [cocoapods]:   http://cocoapods.org
 [transition]:  http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
 
-[example-tvos]:      http://github.com/adjust/ios_sdk/tree/master/examples/AdjustExample-tvOS
+[example-tvos]:      ./examples/AdjustExample-tvOS
 [AEPriceMatrix]:     https://github.com/adjust/AEPriceMatrix
 [event-tracking]:    https://docs.adjust.com/en/event-tracking
-[example-iwatch]:    http://github.com/adjust/ios_sdk/tree/master/examples/AdjustExample-iWatch
+[example-iwatch]:    ./examples/AdjustExample-iWatch
 [callbacks-guide]:   https://docs.adjust.com/en/callbacks
 [universal-links]:   https://developer.apple.com/library/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html
 
 [special-partners]:     https://docs.adjust.com/en/special-partners
 [attribution-data]:     https://github.com/adjust/sdks/blob/master/doc/attribution-data.md
-[example-ios-objc]:     http://github.com/adjust/ios_sdk/tree/master/examples/AdjustExample-iOS
-[example-ios-swift]:    http://github.com/adjust/ios_sdk/tree/master/examples/AdjustExample-Swift
-[ios-web-views-guide]:  https://github.com/adjust/ios_sdk/tree/master/doc/web_views.md
+[example-ios-objc]:     ./examples/AdjustExample-iOS
+[example-ios-swift]:    ./examples/AdjustExample-Swift
+[ios-web-views-guide]:  ./doc/english/web_views.md
 [currency-conversion]:  https://docs.adjust.com/en/event-tracking/#tracking-purchases-in-different-currencies
 
 [universal-links-guide]:      https://docs.adjust.com/en/universal-links/
